@@ -305,7 +305,7 @@ the-life-of-jesus-cli/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/oliveiracle/the-life-of-jesus-cli.git
+   git clone https://github.com/oliveiracle/the-life-of-jesus-cli-v2.git
    cd the-life-of-jesus-cli
    ```
 
@@ -764,13 +764,9 @@ None identified during testing phase.
 
 ### 🌐 **Live Deployment**
 
-**🔗 Heroku Application:** https://the-life-of-jesus-cli-e885a64d4490.herokuapp.com/
+**🔗 Heroku Application:** https://the-life-of-jesus-v2-45522819b886.herokuapp.com/
 
 ---
-
-### ⚠️ **Important Note: CLI Application**
-
-This is a **Command-Line Interface (CLI) application** designed to run in an interactive terminal environment. While successfully deployed to Heroku (demonstrating **LO9 deployment proficiency**), the application requires user input via terminal and is intended for local execution.
 
 **The Heroku deployment demonstrates:**
 
@@ -799,7 +795,7 @@ To experience the full interactive functionality of this CLI application:
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/oliveiracle/the-life-of-jesus-cli.git
+   git clone https://github.com/oliveiracle/the-life-of-jesus-cli-v2.git
    cd the-life-of-jesus-cli
 ```
 
@@ -823,7 +819,7 @@ To experience the full interactive functionality of this CLI application:
 
 #### **Alternative Installation (Download ZIP):**
 
-- Download ZIP from [GitHub repository](https://github.com/oliveiracle/the-life-of-jesus-cli)
+- Download ZIP from [GitHub repository](https://github.com/oliveiracle/the-life-of-jesus-cli-v2)
 - Extract to desired location
 - Open terminal in extracted folder
 - Run: `pip install -r requirements.txt`
@@ -942,13 +938,13 @@ This CLI application demonstrates all Python Essentials learning outcomes, with 
 
 **To assess full functionality:**
 
-1. Clone repository: `git clone https://github.com/oliveiracle/the-life-of-jesus-cli.git`
+1. Clone repository: `git clone https://github.com/oliveiracle/the-life-of-jesus-cli-v2.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run application: `python3 run.py`
 
 **Evidence of deployment:**
 
-- Live URL: https://the-life-of-jesus-cli-e885a64d4490.herokuapp.com/
+- Live URL: https://the-life-of-jesus-v2-45522819b886.herokuapp.com/
 - Heroku logs demonstrate successful initialization
 - Refer to Screenshots section above for visual proof of functionality
 - Refer to Testing section for 40+ documented test cases
